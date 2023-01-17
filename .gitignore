@@ -1,0 +1,16 @@
+# 以下不需要放入gulimall系统
+/renren-generator
+/gulimall-test-sso-client
+/gulimall-test-sso-server
+
+### Maven ###
+target/
+.mvn/
+**/mvnw
+**/mvnw.cmd
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
